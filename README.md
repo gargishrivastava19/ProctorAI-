@@ -1,7 +1,7 @@
 # ProctorAI: Intelligent Online Proctoring Using Multimodal Behavioral Analytics
 
 <p align="center">
-  <img src="assets/proctorai-logo.png" alt="ProctorAI Logo" width="220"/>
+  <img src="proctorai_logo.jpeg" alt="ProctorAI Logo" width="220"/>
 </p>
 
 <p align="center">
